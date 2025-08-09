@@ -135,7 +135,7 @@ Model menggunakan algoritma **XGBoost** dengan optimasi menggunakan **GridSearch
 streamlit run app.py
 ```
 
-🔗 *Link prototype (jika tersedia online):*  
+🔗 *Link prototype:*  
 [link streamlit](https://jayajayajayadashboard123.streamlit.app/)
 
 ---
