@@ -86,7 +86,7 @@ Dashboard dibuat menggunakan **Tableau** untuk menyajikan statistik penting meng
 [Student Performance Dashboard – Tableau](https://public.tableau.com/views/StudentPerformanceDashboardJayaInstitute/StudentPerformanceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <p align="center">
-<img src="dashboard_reisya_junita.png" alt="alt text" />
+<img src="https://github.com/reisyajunita/Dicoding_Penerapan-Data-Science-Akhir/blob/9b374ccf5974f1f5a11b4af9facb87e619b0b717/reisya_junita-dashboard.png" alt="alt text" />
 </p>
 <p align="center">Student Performance Dashboard</p>
 
