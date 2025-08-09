@@ -1,5 +1,8 @@
-
 # 🎓 Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
+
+Proyek ini dibuat sebagai submission untuk kelas **"Penerapan Data Science"** dari [Dicoding Indonesia](https://www.dicoding.com/).
+
+Tujuan dari proyek ini adalah untuk mengidentifikasi faktor-faktor utama yang memengaruhi tingginya tingkat atrisi (*attrition rate*) di perusahaan fiktif "Jaya Jaya Maju". Analisis ini bertujuan untuk memberikan rekomendasi berbasis data kepada departemen HR guna membantu mereka dalam mengambil keputusan strategis.
 
 ## Business Understanding
 Jaya Jaya Institut merupakan salah satu institusi pendidikan perguruan yang telah berdiri sejak tahun 2000. Hingga saat ini ia telah mencetak banyak lulusan dengan reputasi yang sangat baik. Akan tetapi, terdapat banyak juga siswa yang tidak menyelesaikan pendidikan alias *dropout*.
@@ -159,3 +162,7 @@ Dashboard mendukung pemahaman visual yang membantu pengambil keputusan dalam men
 - 🗂️ **Peningkatan Data & Monitoring:**  
   Perluas variabel yang dikumpulkan untuk menyempurnakan model (misalnya, kehadiran, partisipasi kelas, aktivitas organisasi).
 
+## 🧑‍💻 Author
+
+* **Nama:** Reisya Junita
+* **GitHub:** [@reisyajunita](https://github.com/reisyajunita)
